@@ -1,0 +1,22 @@
+Thrills Of Adventure:
+
+Account:
+- username
+- password
+
+CharacterOfAccount:
+- username
+- name
+
+Character:
+- name
+- level
+- experience
+
+CharacterStatistic:
+- name
+- statName
+- level
+
+Statistic:
+- statName
